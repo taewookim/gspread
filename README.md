@@ -1,4 +1,4 @@
-# Google Spreadsheets Python API
+# Google Spreadsheets Python API - forked w/ update_cells fix that @burnash won't seem to fix
 
 Manage your spreadsheets with _gspread_ in Python.
 
