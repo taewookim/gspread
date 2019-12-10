@@ -4,4 +4,3 @@ won't have detailed explanation b/c it just patches 2 issues
 
 1. Updating non-contiguous - https://github.com/burnash/gspread/issues/619
 
-2. Batch updating causing API read limit to exceed - https://github.com/burnash/gspread/issues/609
